@@ -1,0 +1,10 @@
+{
+  "name": "Check list",
+  "description": "Comprehensive inspection checklist app for Cleaning, MEP, and Landscape across site zones, featuring status tracking, photo attachments, timestamps, and exportable reports.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
